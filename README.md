@@ -34,11 +34,11 @@ Identify the major factors associated with supply chain disruptions and highligh
 
 ### Supply Chain Overview
 
-![Supply Chain Overview](images/overview.png)
+![Supply Chain Overview](Images/Supply Chain Risk Analysis_page-0001.jpg)
 
 ### Transport & Logistics Performance
 
-![Transport & Logistics Performance](images/transport-logistics.png)
+![Transport & Logistics Performance](Images/Supply Chain Risk Analysis_page-000)
 
 ### Risk Analysis
 
