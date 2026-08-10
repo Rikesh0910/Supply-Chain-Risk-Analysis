@@ -34,19 +34,19 @@ Identify the major factors associated with supply chain disruptions and highligh
 
 ### Supply Chain Overview
 
-![Supply Chain Overview](Images/Supply-Chain-Risk-Analysis_page-0001.jpg)
+ply Chain Overview](Images/Supply%20Chain%20Risk%20Analysis_page-0001.jpg)
 
 ### Transport & Logistics Performance
 
-![Transport & Logistics Performance](Images/Supply Chain Risk Analysis_page-000)
+![Transport & Logistics Performance](Images/Supply%20Chain%20Risk%20Analysis_page-0002.jpg)
 
 ### Risk Analysis
 
-![Risk Analysis](images/risk-analysis.png)
+![Risk Analysis](Images/Supply%20Chain%20Risk%20Analysis_page-0003.jpg)
 
 ### Logistics Trends
 
-![Logistics Trends](images/logistics-trends.png)
+![Logistics Trends](Images/Supply%20Chain%20Risk%20Analysis_page-0004.jpg)
 
 ## Machine Learning
 
