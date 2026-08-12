@@ -23,7 +23,7 @@ Identify the major factors associated with supply chain disruptions and highligh
 
 - **5,000** total shipments analyzed
 - **3,063** disruptions recorded
-- **19.36%** disruption rate
+- **61%** disruption rate
 - **39.85%** of shipments classified as high risk
 - **Textiles** was the most disrupted product category
 - **Air** had the highest logistics efficiency at **4,721.85 km/day**
